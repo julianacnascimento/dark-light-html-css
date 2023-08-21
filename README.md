@@ -1,5 +1,7 @@
-# CODEDROPS
+# Dark / Light theme
 
-ESTUDO SOBRE TEMA DARK/LIGHT, COM AUXÍLIO DA AULA DO MAYK BRITO NO CODE DROPS.
+```
+  Study on dark and light theme with: html, css and javascript. 
+```
 
-yt: @rocketseat
+yt: @rocketseat, class taught by Mayk Brito.
